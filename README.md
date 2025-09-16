@@ -3,10 +3,6 @@
 Dies ist mein kostenloser Online-Shop, gehostet auf **GitHub Pages** und mit **Stripe Checkout** als Bezahlsystem.  
 Kunden können mit **TWINT, Kreditkarte, Apple Pay und Google Pay** bezahlen.
 
-## 📦 Produkte
-- T-Shirt – 25 CHF
-- Hoodie – 40 CHF
-
 ## 🌐 Live-Shop
 👉 [Hier klicken, um den Shop zu besuchen](https://DEIN-GITHUB-NAME.github.io/mein-shop/)
 
